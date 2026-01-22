@@ -320,13 +320,13 @@ public class HybridInheritance {
 
 ---
 
-## 🔥 Most Confusing Points (Exam & Interview Focus)
+## 🔥 Most Confusing Points
 
 ✔ `extends` → class to class
 ✔ `implements` → class to interface
-✔ Interfaces can have **same method names**
 ✔ Class constructor is called **top → bottom**
 ✔ Java avoids ambiguity using interfaces
+✔ Interfaces can have **same method names**
 
 ---
 
