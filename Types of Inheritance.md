@@ -1,4 +1,4 @@
-# Java Types Of Inheritance
+# Types Of Inheritance - JAVA
 
 This repository demonstrates **all major types of inheritance in Java** using **simple, real‑world–like examples** (Employee, Developer, Tester, TechLead, etc.).
 
